@@ -1,3 +1,3 @@
 # Random_Game_Of_Life
-Programa sencillo para observar el juego de la vida. \n
-Al ser aleatorio no se suelen observar patrones interesantes :c
+Programa sencillo para observar el juego de la vida. #/n
+ Al ser aleatorio no se suelen observar patrones interesantes :c
